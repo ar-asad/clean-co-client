@@ -32,6 +32,7 @@ export default {
           error: "#FB7185",
         },
       },
+      // "dark",
     ],
   },
   plugins: [require("daisyui")],
